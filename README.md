@@ -36,8 +36,7 @@
 [![Medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@stish.ads)
 [![instagram](https://img.shields.io/badge/Instagram-9356cd?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dst1sh/)
 [![Telegram](https://img.shields.io/badge/telegram-0e87f0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dstish)
-
-
+[![Kaggle](https://img.shields.io/badge/kaggle-27c4d6?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/dsitsh)
 
 
 
