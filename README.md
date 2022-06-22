@@ -12,6 +12,8 @@
 * 📝 Wrote this ReadMe
 * 🥇 Finish school with honours
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=dstish)](https://github.com/dstish/github-profile-trophy)
+
 ### 🛠 Skills
 #### Languages
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white)
