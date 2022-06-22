@@ -1,6 +1,6 @@
 ## Hi there! 👋🏻
 ### 💬 About me
-🌿 I'm Daniel (you can call me Danny or Dan), a future **Data Scientist** and a **NArFU student**. I am Pursuing my Bachelor in **Information Systems and Technologies** and will graduate in mid-2024. 🎓
+🌿 I'm Daniel (you can call me Danny or Dan), a **Data Scientist** and a **NArFU student**. I am Pursuing my Bachelor in **Information Systems and Technologies** and will graduate in mid-2024. 🎓
 
 👨🏻‍💻 I'm currently learning Structured Query Language (SQL) and Math. I also practice my Python skills by creating many mini-projects. I am really enthusiastic about learning new technology. In the first half of 2022, I learned .NET, WinForms and worked with MySQL.
 
