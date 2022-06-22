@@ -12,7 +12,7 @@
 * 📝 Wrote this ReadMe
 * 🥇 Finish school with honours
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dstish)](https://github.com/dstish/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dstish&margin-w=15)](https://github.com/dstish/github-profile-trophy)
 
 ### 🛠 Skills
 #### Languages
@@ -51,7 +51,7 @@
 
 
 
-
+![](https://komarev.com/ghpvc/?username=dsitsh)
 <!--
 **dstish/dstish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
