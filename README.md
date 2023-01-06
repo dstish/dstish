@@ -1,8 +1,6 @@
 ## Hi there! 👋🏻
 ### 💬 About me
-🌿 I'm Daniel (you can call me Danny or Dan), a **Data Scientist** and a **NArFU student**. I am Pursuing my Bachelor in **Information Systems and Technologies** and will graduate in mid-2024. My GPA: 4,76/5 🎓
-
-👨🏻‍💻 I'm currently learning Structured Query Language (SQL) and Math. I also practice my Python skills by creating many mini-projects. I am really enthusiastic about learning new technology. In the first half of 2022, I learned .NET, WinForms and worked with MySQL.
+🌿 I'm Daniel (you can call me Danny or Dan), a **Data Scientist** and a **NArFU student**. I am Pursuing my Bachelor in **Information Systems and Technologies** and will graduate in mid-2024. 🎓
 
 📚 Outside the study and work, I enjoy pushing myself to develop new skills. I am interested in minimalism, productivity, design. I like reading books on personal development & financial literacy. Also I’m fond of cinema, videogames and meditation. It helps me to relax. 🌱 
 
