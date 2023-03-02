@@ -21,6 +21,7 @@
 ![Pycharm](https://img.shields.io/badge/Pycharm-blue?style=for-the-badge&logo=Pycharm&logoColor=white)
 ![VisualStudio](https://img.shields.io/badge/Visual_Studio-9356cd?style=for-the-badge&logo=VisualStudio&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white)
+![postgresql](https://img.shields.io/badge/postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### Design Tools
 ![Figma](https://img.shields.io/badge/Figma-blue?style=for-the-badge&logo=Figma&logoColor=white)
