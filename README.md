@@ -3,7 +3,7 @@ My name is Daniel (you can call me Dan). I'm a 20-year-old student in my third y
 
 I love working with big data and have experience in this area through completing courses such as Data Analyst at SberUniversity, participating in the Moscow DATA hackathon where I made it into the top 10 🏆, and working on various student projects related to data processing, analysis, and machine learning 🤖.
 
-In my free time, I enjoy reading books on self-development and finance 📚💰, as well as investing and exploring The Open Network 🌐. I also value minimalism, productivity, and sports 🏋️‍♂️.
+In my free time, I enjoy reading books on self-development and finance 📚💰, as well as investing and exploring The Open Network 💎. I also value minimalism, productivity, and sports 🏋️‍♂️.
 
 On my GitHub profile, you can find my projects related to data processing, analysis, machine learning, and other technologies I'm learning 🚀. I hope my projects are helpful or inspiring in some way!
 
