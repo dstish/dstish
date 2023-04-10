@@ -8,7 +8,7 @@ In my free time, I enjoy reading books on self-development and finance 📚💰,
 On my GitHub profile, you can find my projects related to data processing, analysis, machine learning, and other technologies I'm learning 🚀. I hope my projects are helpful or inspiring in some way!
 
 ### Links
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/dst1sh)
 [![Telegram](https://img.shields.io/badge/telegram-0e87f0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dstish)
 [![Kaggle](https://img.shields.io/badge/kaggle-27c4d6?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/dsitsh)
+[![LeetCode](https://img.shields.io/badge/leetcode-black?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/dstish/)
 [![Linkedin](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-pokryshkin-4182a2241/)
