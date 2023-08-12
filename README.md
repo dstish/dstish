@@ -12,4 +12,4 @@ On my GitHub profile, you can find my projects related to data processing, analy
 [![Kaggle](https://img.shields.io/badge/kaggle-27c4d6?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/dsitsh)
 [![LeetCode](https://img.shields.io/badge/leetcode-black?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/dstish/)
 [![StrataScratch](https://img.shields.io/badge/stratascratch-white?style=for-the-badge&logo=stratascratch&logoColor=blue)](https://platform.stratascratch.com/user/notdanny)
-[![Linkedin](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-pokryshkin-4182a2241/)
+[![Linkedin](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pokryshkin-daniil/)
