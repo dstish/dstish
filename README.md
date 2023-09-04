@@ -27,25 +27,16 @@ I'm always eager to expand my knowledge and skills. Right now, I'm focused on:
 
 Feel free to connect with me on:
 
-[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />](https://t.me/your-telegram)
-[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />](https://www.linkedin.com/in/your-profile)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo" />](https://www.kaggle.com/your-profile)
+[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />](https://t.me/dstish)
+[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />](https://www.linkedin.com/in/pokryshkin-daniil)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo" />](https://www.kaggle.com/dsitsh)
 
+## 🏆 Achievements
 
-## 📊 Projects
-
-I enjoy working on various data-related projects. Check out some of my work:
-
-- [Prediction of TON](link-to-project-1): Description.
-
-## 🏆 Hackathon Achievements
-
-As the team captain of our dedicated hackathon team, we've achieved remarkable success in the field of Artificial Intelligence:
+I'm the captain of [Arctic Data Force](https://github.com/Arctic-Data-Force), and together, we've achieved remarkable success in the field of Artificial Intelligence:
 
 - 🥈 25.06.2023 – 4th Place at the "Цифровой прорыв. Сезон: Искусственный интеллект" (УФО) hackathon.
 - 🥇 27.08.2023 – 1st Place at the "Цифровой прорыв. Сезон: Искусственный интеллект" (СЗФО) hackathon.
-
-These achievements reflect our commitment to innovation and problem-solving in the world of AI. Kudos to our team for their dedication and hard work!
 
 
 Let's collaborate and make data-driven magic! 🚀
