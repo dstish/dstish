@@ -1,15 +1,51 @@
-## Hi there! 
-My name is Daniel (you can call me Dan). I'm a 20-year-old student in my third year at the Northern Arctic Federal University, where I'm studying Information Systems and Technologies with a focus on Data Science 🎓👨‍💻.
+# Hi, I'm Daniil! 👋
 
-I love working with big data and have experience in this area through completing courses such as Data Analyst at SberUniversity, participating in the Moscow DATA hackathon where I made it into the top 10 🏆, and working on various student projects related to data processing, analysis, and machine learning 🤖.
+I'm on a journey of discovery through the world of data, where I transform raw information into actionable insights. Here's a little more about me:
 
-In my free time, I enjoy reading books on self-development and finance 📚💰, as well as investing and exploring The Open Network 💎. I also value minimalism, productivity, and sports 🏋️‍♂️.
+- 🧑‍💻 Data Analyst / Data Scientist
+- 📚 4th-year student at Northern Arctic Federal University
+- 🎓 21 years old
 
-On my GitHub profile, you can find my projects related to data processing, analysis, machine learning, and other technologies I'm learning 🚀. I hope my projects are helpful or inspiring in some way!
+## 🔧 Skills
 
-### Links
-[![Telegram](https://img.shields.io/badge/telegram-0e87f0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dstish)
-[![Kaggle](https://img.shields.io/badge/kaggle-27c4d6?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/dsitsh)
-[![LeetCode](https://img.shields.io/badge/leetcode-black?style=for-the-badge&logo=leetcode&logoColor=orange)](https://leetcode.com/dstish/)
-[![StrataScratch](https://img.shields.io/badge/stratascratch-white?style=for-the-badge&logo=stratascratch&logoColor=blue)](https://platform.stratascratch.com/user/notdanny)
-[![Linkedin](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pokryshkin-daniil/)
+- 📊 Data Analysis
+- 📈 Data Visualization
+- 🤖 Machine Learning
+- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20" alt="Python icon" />](https://www.python.org/) Python
+- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" height="20" alt="postgresql logo"  />](https://www.w3schools.com/sql/) SQL
+
+
+## 🌱 Currently Learning
+
+I'm always eager to expand my knowledge and skills. Right now, I'm focused on:
+
+- Advanced Machine Learning techniques
+- Statistics
+- Data Engineering
+
+## 📫 Contact
+
+Feel free to connect with me on:
+
+[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />](https://t.me/your-telegram)
+[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />](https://www.linkedin.com/in/your-profile)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo" />](https://www.kaggle.com/your-profile)
+
+
+## 📊 Projects
+
+I enjoy working on various data-related projects. Check out some of my work:
+
+- [Prediction of TON](link-to-project-1): Description.
+
+## 🏆 Hackathon Achievements
+
+As the team captain of our dedicated hackathon team, we've achieved remarkable success in the field of Artificial Intelligence:
+
+- 🥈 25.06.2023 – 4th Place at the "Цифровой прорыв. Сезон: Искусственный интеллект" (УФО) hackathon.
+- 🥇 27.08.2023 – 1st Place at the "Цифровой прорыв. Сезон: Искусственный интеллект" (СЗФО) hackathon.
+
+These achievements reflect our commitment to innovation and problem-solving in the world of AI. Kudos to our team for their dedication and hard work!
+
+
+Let's collaborate and make data-driven magic! 🚀
