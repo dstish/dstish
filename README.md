@@ -36,8 +36,8 @@ Feel free to connect with me on:
 
 I'm the captain of [Arctic Data Force](https://github.com/Arctic-Data-Force), and together, we've achieved remarkable success in the field of Artificial Intelligence:
 
-- 🥈 25.06.2023 – 4th Place at the "Цифровой прорыв. Сезон: Искусственный интеллект" (УФО) hackathon.
+- 📍 25.06.2023 – 4th Place at the "Цифровой прорыв. Сезон: Искусственный интеллект" (УФО) hackathon.
 - 🥇 27.08.2023 – 1st Place at the "Цифровой прорыв. Сезон: Искусственный интеллект" (СЗФО) hackathon.
-
+- 🥉 27.08.2023 – 3rd Place at the "Цифровой прорыв. Сезон: Искусственный интеллект" (Всероссийский) hackathon.
 
 Let's collaborate and make data-driven magic! 🚀
