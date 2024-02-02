@@ -38,6 +38,6 @@ I'm the captain of [Arctic Data Force](https://github.com/Arctic-Data-Force), an
 
 📍 25.06.2023 – 4th Place at the "Digital Breakthrough. Season: Artificial Intelligence" (Ural Federal District) hackathon.  
 🥇 27.08.2023 – 1st Place at the "Digital Breakthrough. Season: Artificial Intelligence" (North-West Federal District) hackathon.  
-🥉 27.08.2023 – 3rd Place at the "Digital Breakthrough. Season: Artificial Intelligence" (All-Russian) hackathon.  
+🥉 10.09.2023 – 3rd Place at the "Digital Breakthrough. Season: Artificial Intelligence" (All-Russian) hackathon.  
 
 Let's collaborate and make data-driven magic! 🚀
