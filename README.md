@@ -27,7 +27,6 @@ I'm always eager to expand my knowledge and skills. Right now, I'm focused on:
 
 Feel free to connect with me on:
 
-[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />](https://t.me/dstish)
 [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />](https://www.linkedin.com/in/pokryshkin-daniil)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo" />](https://www.kaggle.com/dsitsh)
 
