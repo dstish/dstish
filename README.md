@@ -1,27 +1,13 @@
 # Hi, I'm Daniil! 👋
 
-I'm on a journey of discovery through the world of data, where I transform raw information into actionable insights. Here's a little more about me:
+- 🧑‍💻 Data Scientist
+- 📚 1st-year Master student at Data Analytics in Economics
+- 🎓 22 years old
+- 📱 Passionate about Swift development
 
-- 🧑‍💻 Data Analyst / Data Scientist
-- 📚 4th-year student at Northern Arctic Federal University
-- 🎓 21 years old
+## 🚀 Projects
 
-## 🔧 Skills
-
-- 📊 Data Analysis
-- 📈 Data Visualization
-- 🤖 Machine Learning
-- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20" height="20" alt="Python icon" />](https://www.python.org/) Python
-- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" height="20" alt="postgresql logo"  />](https://www.w3schools.com/sql/) SQL
-
-
-## 🌱 Currently Learning
-
-I'm always eager to expand my knowledge and skills. Right now, I'm focused on:
-
-- Advanced Machine Learning techniques
-- Statistics
-- Data Engineering
+🚧 Currently no active public projects. Stay tuned!
 
 ## 📫 Contact
 
@@ -41,3 +27,5 @@ I'm the captain of [Arctic Data Force](https://github.com/Arctic-Data-Force), an
 🥇 19.05.2024 – 1st Place at the "Digital Breakthrough. Season: Artificial Intelligence" (Ural Federal District) hackathon.  
 
 Let's collaborate and make data-driven magic! 🚀
+
+
