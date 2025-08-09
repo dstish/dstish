@@ -1,0 +1,6 @@
+# Force GitHub Linguist to detect SQL files
+*.sql linguist-detectable=true
+*.sql linguist-language=SQL
+
+# Hide Jupyter notebooks from language stats
+*.ipynb linguist-detectable=false
