@@ -1,31 +1,47 @@
-# Hi, I'm Daniil! 👋
+# Hey, I'm Daniil
 
-- 🧑‍💻 Data Scientist
-- 📚 2nd-year Master student at Data Analytics in Economics
-- 🎓 22 years old
-- 📱 Passionate about Swift development
-
-## 🚀 Projects
-
-🚧 Currently no active public projects. Stay tuned!
-
-## 📫 Contact
-
-Feel free to connect with me on:
-
-[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />](https://www.linkedin.com/in/pokryshkin-daniil)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo" />](https://www.kaggle.com/dsitsh)
+**Data Scientist | Data Analyst | Aspiring iOS Developer**  
+📚 Master's in Data Analytics in Economics (2nd year)  
+💡 Turning data into insights, and ideas into products.
 
 
 ## 🏆 Achievements
 
-I'm the captain of [Arctic Data Force](https://github.com/Arctic-Data-Force), and together, we've achieved remarkable success in the field of Artificial Intelligence:
-
-📍 25.06.2023 – 4th Place at the "Digital Breakthrough. Season: Artificial Intelligence" (Ural Federal District) hackathon.  
-🥇 27.08.2023 – 1st Place at the "Digital Breakthrough. Season: Artificial Intelligence" (North-West Federal District) hackathon.  
-🥉 10.09.2023 – 3rd Place at the "Digital Breakthrough. Season: Artificial Intelligence" (All-Russian) hackathon.  
-🥇 19.05.2024 – 1st Place at the "Digital Breakthrough. Season: Artificial Intelligence" (Ural Federal District) hackathon.  
-
-Let's collaborate and make data-driven magic! 🚀
+**Captain** of [Arctic Data Force](https://github.com/Arctic-Data-Force) — led the team to success in multiple AI hackathons:  
+- 🥇 **1st Place** – Digital Breakthrough: AI (North-West Federal District, 2023 & 2024)  
+- 🥉 **3rd Place** – Digital Breakthrough: AI (All-Russian, 2023)  
+- 📍 **Top 4** – Digital Breakthrough: AI (Ural Federal District, 2023)  
 
 
+## 🛠 Tech Stack
+
+**Languages & Tools:**  
+Python • Pandas • NumPy • SQL • FastAPI • Streamlit • Jinja2 • Docker • Swift (beginner)  
+
+**Specialties:**  
+Data Analytics • Data Visualization • Machine Learning • A/B Testing • Hackathon Leadership
+
+
+## 📊 GitHub at a Glance
+
+<!-- Stats -->
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=dstish&show_icons=true&bg_color=FFFFFF&title_color=0A66C2&text_color=2E3A59&icon_color=0A66C2&border_color=E4E2E2"
+    height="165"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dstish&layout=compact&bg_color=FFFFFF&title_color=0A66C2&text_color=2E3A59&border_color=E4E2E2"
+    height="165"
+    alt="Top Languages"
+  />
+</p>
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/pokryshkin-daniil)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge)](https://www.kaggle.com/dsitsh)  
+📧 **pokryshkin.daniil@gmail.com**
+
+💡 *I’m open to Data Analytics, Data Science, and ML roles. Let’s create something amazing together.*
