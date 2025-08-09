@@ -1,7 +1,7 @@
 # Hi, I'm Daniil! 👋
 
 - 🧑‍💻 Data Scientist
-- 📚 1st-year Master student at Data Analytics in Economics
+- 📚 2nd-year Master student at Data Analytics in Economics
 - 🎓 22 years old
 - 📱 Passionate about Swift development
 
